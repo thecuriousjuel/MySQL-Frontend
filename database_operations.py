@@ -11,4 +11,8 @@ def does_database_exists(mycursor, database_name):
 
 def create_database(mycursor, database_name):
     query = f'CREATE DATABASE {database_name}'
+    mycursor.execute(query)
+
+    print('Database created')
+
     

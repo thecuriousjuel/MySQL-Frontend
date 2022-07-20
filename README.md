@@ -3,14 +3,16 @@
 CRUD operations
 
 Database Operations
-1. Create a Database
-2. Update a Database
+1. Show all databases
+2. Create a Database
+3. Update a Database
 
 
 Table Operations
-1. Create a table
-2. update table
-3. delete table
+1. Show all tables
+2. Create a table
+3. update table
+4. delete table
 
 
 Record Operations
